@@ -34,7 +34,7 @@ I'm a self-taught **Full-Stack Web Developer** based in Canada 🇨🇦, passion
 He/Him
 
 ## ⚡ Fun fact
-Before diving into web development, I coded in C, C++, and C# — and I still love experimenting with new tech stacks on the side!
+Before diving into web development, I coded in C++, and C# — and I still love experimenting with new tech stacks on the side!
 
 ---
 

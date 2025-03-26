@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Dylan — aka **@didicodeX**
+# 👋 Hi there, I’m Dylane Tano — aka **@didicodeX**
 
 I'm a self-taught **Full-Stack Web Developer** based in Canada 🇨🇦, passionate about building intuitive and modern web applications. I specialize in **React**, **Node.js**, and **MongoDB**, and I’m always eager to learn and grow.
 

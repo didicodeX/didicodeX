@@ -26,7 +26,6 @@ I'm a self-taught **Full-Stack Web Developer** based in Canada 🇨🇦, passion
 ---
 
 ## 🌱 I’m currently learning
-- Clean architecture patterns in fullstack apps
 - Real-time features with Socket.io
 - MongoDB advanced modeling & indexing
 - DevOps basics with **Railway**, **Vercel**, and **SSH**
@@ -38,7 +37,7 @@ I'm a self-taught **Full-Stack Web Developer** based in Canada 🇨🇦, passion
 - [📚 BADAM](https://badam.app) — A learning platform connecting people through 100% in-person training sessions. Built from scratch with React, Node.js, MongoDB & a custom design system.  
 - [🌐 didicode.com](https://didicode.com) — My personal portfolio  
 - [📝 Didicodex](https://didicodex.com) *(in progress)* — A full blog platform built with Node.js and Next.js  
-- [📅 Didimeet (UI Preview)](https://www.figma.com/design/8Okw3re1qwaVqYyIhilQgT/didimeet?m=auto&t=f08tNNZPkMSRidk5-1) — An event management app designed & developed from scratch
+- [🕊️ Hommage](https://hommage-whvr.vercel.app/) — Respectful funeral donation site to honor a loved one.
 
 ---
 

@@ -1,51 +1,29 @@
 # 👋 Hi there, I’m Dylane Tano — aka **@didicodeX**
 
-I'm a self-taught **Full-Stack Web Developer** based in Canada 🇨🇦, passionate about building **beautiful and intuitive web apps**. I specialize in **React**, **Node.js**, and **MongoDB**, and I’m always seeking to sharpen both my technical and product-thinking skills.
+🏦 Fintech Developer with a passion for solving real-world financial challenges through technology.
 
-## 🚀 What I’m focused on
+My fintech journey started in May 2025 when a friend needed urgent fundraising for funeral expenses. Working through the night (didn't eat until 22h!), I built a complete donation platform with Stripe integration. The project taught me firsthand about payment processing delays, regulatory validation, and the critical importance of seamless financial UX during emotional times.
 
-### 🧠 Frontend – React & Next.js
-- Building scalable UIs with **Zustand**, **TanStack Query**, and **Tailwind CSS**
-- Using **modern routing**, layout nesting, and advanced component composition
-- Translating **Figma designs** into clean, responsive interfaces
+That experience sparked my fascination with how money moves - from card swipes to cross-border transfers, from instant payments to withdrawal delays. Every financial friction I encountered became a problem I wanted to solve.
 
-### 🔧 Backend – Node.js & Next.js API
-- Designing maintainable APIs using **layered** and **feature-based architectures**
-- Integrating **Socket.io** for real-time interactions
-- Mastering **MongoDB Atlas**: relations, aggregations, triggers, and cloud features
+🚀 WHAT I BUILD:
+- Payment processing platforms (Stripe expertise, regulatory challenges understood)
+- Invoice & billing systems with real-time payment tracking
+- Donation platforms optimized for time-sensitive transactions
+- Modern fintech UX with Next.js 15 + TypeScript
 
-### 🎨 UI/UX & Product Thinking
-- Applying solid **UI/UX principles** to create user-centered designs
-- Developing a true **product vision**: solving real problems, not just technical challenges
-- Inspired by both code **and** craft ✏️ (yes, I used to draw a lot!)
+💡 WHAT DRIVES ME:
+That curiosity about how $5 moves from my RBC card to a merchant in milliseconds. Why Stripe doesn't work in Africa. How mobile money could bridge payment gaps. Why account validation takes days when people need money now.
 
-### 🔐 Web Security (Essentials)
-- Implementing best practices in **authentication, validation, and protection**
-- Securing APIs and UIs (JWT, CSRF, XSS, sanitize, HTTPS headers, etc.)
-
----
-
-## 🌱 I’m currently learning
-- Real-time features with Socket.io
-- MongoDB advanced modeling & indexing
-- DevOps basics with **Railway**, **Vercel**, and **SSH**
-
----
+🎯 CURRENT FOCUS:
+Just completed Paymavo, a SaaS invoicing platform, where I discovered the exact cross-border payment challenges that Calgary's growing fintech scene is solving. Ready to contribute to companies transforming financial infrastructure
 
 ## 💼 My Projects
-
+- [💳 Paymavo](https://www.paymavo.com/) — SaaS Invoicing & Payments Platform 
 - [📚 BADAM](https://badam.app) — A learning platform connecting people through 100% in-person training sessions. Built from scratch with React, Node.js, MongoDB & a custom design system.  
 - [🌐 didicode.com](https://didicode.com) — My personal portfolio  
 - [📝 Didicodex](https://didicodex.com) *(in progress)* — A full blog platform built with Node.js and Next.js  
 - [🕊️ Hommage](https://hommage-whvr.vercel.app/) — Respectful funeral donation site to honor a loved one.
-
----
-
-## 🤝 I’m looking to collaborate on
-- Freelance and client projects
-- UI/UX-to-code implementation
-- Real-world product ideas (side projects welcome!)
-- Refactoring codebases with SOLID & clean patterns
 
 ---
 
@@ -56,7 +34,7 @@ I'm a self-taught **Full-Stack Web Developer** based in Canada 🇨🇦, passion
 ---
 
 ## ⚡ Fun fact
-I started with C++ and C#, but my heart now belongs to **React**. You’ll probably never catch me doing .NET again — unless a client insists 😉.
+I started with C++ and C#, but my heart now belongs to **NextJS/React**. You’ll probably never catch me doing .NET again — unless a client insists 😉.
 
 <!---
 didicodeX/didicodeX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

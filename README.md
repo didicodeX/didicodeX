@@ -2,7 +2,7 @@
 
 🏦 Fintech Developer with a passion for solving real-world financial challenges through technology.
 
-My fintech journey started in May 2025 when a friend needed urgent fundraising for funeral expenses. Working through the night (didn't eat until 22h!), I built a complete donation platform with Stripe integration. The project taught me firsthand about payment processing delays, regulatory validation, and the critical importance of seamless financial UX during emotional times.
+My fintech journey started in May 2025 when a friend needed urgent fundraising for funeral expenses. Working through the night (didn't eat until 10pm!), I built a complete donation platform with Stripe integration. The project taught me firsthand about payment processing delays, regulatory validation, and the critical importance of seamless financial UX during emotional times.
 
 That experience sparked my fascination with how money moves - from card swipes to cross-border transfers, from instant payments to withdrawal delays. Every financial friction I encountered became a problem I wanted to solve.
 

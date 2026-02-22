@@ -1,4 +1,4 @@
-# 💋  Hi, I'm Dylane Tano — @didicodeX
+# 💋 Hi, I'm Dylane Tano — @didicodeX
 
 Full-Stack Developer based in Calgary, AB. Looking for a junior developer role where I can contribute and keep growing.
 
@@ -7,7 +7,7 @@ I'm self-taught in production-grade development — I built **Paymavo** from scr
 ## 🚀 Projects
 
 - [🌐 dylane.dev](https://dylane.dev) — Personal portfolio
-- [💳 Paymavo](https://www.paymavo.com/) — SaaS invoicing & tax compliance platform for Canadian freelancers. Built with Next.js, TypeScript, Prisma, PostgreSQL, Stripe, NextAuth & Resend.
+- [💳 Paymavo](https://www.paymavo.com/) — SaaS invoicing & tax compliance platform for Canadian freelancers. Built with Next.js, TypeScript, Prisma, PostgreSQL, Stripe, BetterAuth & Resend.
 - [🐪 BADAM](https://badam.app) — Group school project: a learning platform connecting people through in-person training sessions. React, Node.js, MongoDB + custom design system.
 - [🕧Hommage](https://hommage-whvr.vercel.app/) - Funeral donation platform built in one night with Stripe integration.
 

@@ -1,42 +1,25 @@
-# 👋 Hi there, I’m Dylane Tano — aka **@didicodeX**
+# 💋  Hi, I'm Dylane Tano — @didicodeX
 
-🏦 Fintech Developer with a passion for solving real-world financial challenges through technology.
+Full-Stack Developer based in Calgary, AB. Looking for a junior developer role where I can contribute and keep growing.
 
-My fintech journey started in May 2025 when a friend needed urgent fundraising for funeral expenses. Working through the night (didn't eat until 10pm!), I built a complete donation platform with Stripe integration. The project taught me firsthand about payment processing delays, regulatory validation, and the critical importance of seamless financial UX during emotional times.
+I'm self-taught in production-grade development — I built **Paymavo** from scratch while learning how Canadian tax regulations (GST/HST/QST) actually work. That hands-on approach is how I learn best.
 
-That experience sparked my fascination with how money moves - from card swipes to cross-border transfers, from instant payments to withdrawal delays. Every financial friction I encountered became a problem I wanted to solve.
+## 🚀 Projects
 
-🚀 WHAT I BUILD:
-- Payment processing platforms (Stripe expertise, regulatory challenges understood)
-- Invoice & billing systems with real-time payment tracking
-- Donation platforms optimized for time-sensitive transactions
-- Modern fintech UX with Next.js 15 + TypeScript
+- [🌐 dylane.dev](https://dylane.dev) — Personal portfolio
+- [💳 Paymavo](https://www.paymavo.com/) — SaaS invoicing & tax compliance platform for Canadian freelancers. Built with Next.js, TypeScript, Prisma, PostgreSQL, Stripe, NextAuth & Resend.
+- [🐪 BADAM](https://badam.app) — Group school project: a learning platform connecting people through in-person training sessions. React, Node.js, MongoDB + custom design system.
+- [🕧Hommage](https://hommage-whvr.vercel.app/) - Funeral donation platform built in one night with Stripe integration.
 
-💡 WHAT DRIVES ME:
-That curiosity about how $5 moves from my RBC card to a merchant in milliseconds. Why Stripe doesn't work in Africa. How mobile money could bridge payment gaps. Why account validation takes days when people need money now.
+## 🛺 Stack
 
-🎯 CURRENT FOCUS:
-Just completed Paymavo, a SaaS invoicing platform, where I discovered the exact cross-border payment challenges that Calgary's growing fintech scene is solving. Ready to contribute to companies transforming financial infrastructure
+Next.js · TypeScript · React · Node.js · Prisma · PostgreSQL · Stripe · Git
 
-## 💼 My Projects
-- [💳 Paymavo](https://www.paymavo.com/) — SaaS Invoicing & Payments Platform 
-- [📚 BADAM](https://badam.app) — A learning platform connecting people through 100% in-person training sessions. Built from scratch with React, Node.js, MongoDB & a custom design system.  
-- [🌐 didicode.com](https://didicode.com) — My personal portfolio  
-- [📝 Didicodex](https://didicodex.com) *(in progress)* — A full blog platform built with Node.js and Next.js  
-- [🕊️ Hommage](https://hommage-whvr.vercel.app/) — Respectful funeral donation site to honor a loved one.
+## 📫 Contact
 
----
-
-## 📫 How to reach me
-- 📧 Email: [dylane@didicode.com](mailto:dylane@didicode.com)
-- 🌐 Portfolio: [didicode.com](https://didicode.com)
-
----
+- Email: [tanodylane@gmail.com](mailto:tanodylane@gmail.com)
+- Portfolio: [dylane.dev](https://dylane.dev)
 
 ## ⚡ Fun fact
-I started with C++ and C#, but my heart now belongs to **NextJS/React**. You’ll probably never catch me doing .NET again — unless a client insists 😉.
 
-<!---
-didicodeX/didicodeX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Started with C++ and C#, but my heart now belongs to Next.js/React. You'll probably never catch me doing .NET again — unless a client insists 😤
